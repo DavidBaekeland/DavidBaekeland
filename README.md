@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on my bachelor's thesis
+- 🌱 I’m currently learning Docker
+- 💬 Ask me about Laravel and Javascript
+- 📫 How to reach me: david.baekeland@student.ehb.be
+- :signal_strength: My website: [davidbaekeland.be](https://davidbaekeland.be/)
+
 <!--
 **DavidBaekeland/DavidBaekeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
