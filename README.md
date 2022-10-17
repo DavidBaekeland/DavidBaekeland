@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my bachelor's thesis
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Laravel and Docker
 - 💬 Ask me about Laravel and Javascript
 - 📫 How to reach me: david.baekeland@student.ehb.be
 - :signal_strength: My website: [davidbaekeland.be](https://davidbaekeland.be/)
