@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my bachelor's thesis
-- 🌱 I’m currently learning Laravel and Docker
-- 💬 Ask me about Laravel and Javascript
-- 📫 How to reach me: david.baekeland@student.ehb.be
-- :signal_strength: My website: [davidbaekeland.be](https://davidbaekeland.be/)
+- 💬 Ask me about Laravel, PHP and Javascript
+- 📫 How to reach me: david.baekeland@hotmail.com
+- ⚡ Fun fact: my bachelor thesis is called LECTOR
 
 <!--
 **DavidBaekeland/DavidBaekeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :signal_strength: My website: [davidbaekeland.be](https://davidbaekeland.be/)
+
 -->
