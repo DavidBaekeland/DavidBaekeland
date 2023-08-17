@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-
+- 🌱 I’m currently learning Svelte and Native PHP
 - 💬 Ask me about Laravel, PHP and Javascript
 - 📫 How to reach me: david.baekeland@hotmail.com
-- ⚡ Fun fact: my bachelor thesis is called LECTOR
+- :signal_strength: My bachelor thesis: [Lector](https://github.com/DavidBaekeland/Lector)
 
 <!--
 **DavidBaekeland/DavidBaekeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
